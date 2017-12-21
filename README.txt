@@ -28,5 +28,10 @@ Required Libraries:
 	TQDM - just provides some neat progress bars, change from tqdm(range()) to just range() to remove
 	Math
 
+	ffmpeg or similar writing software if you would like to save the animations in Hyperbolic.py
 
 
+
+Confession:
+
+I'm not very good at keeping git repositories look clean so I made a messy one that I'm embarrassed of then made this clean one
